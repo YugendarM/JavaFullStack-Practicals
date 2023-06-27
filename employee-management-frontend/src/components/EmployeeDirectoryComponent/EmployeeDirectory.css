@@ -1,0 +1,22 @@
+.container {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.directory__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+.employee__card {
+    border-radius: 10px;
+    line-height: 10px;
+    padding: 20px;
+    height: 150px;
+    width: 300px;
+    background-color: #e2e2e2;
+}
